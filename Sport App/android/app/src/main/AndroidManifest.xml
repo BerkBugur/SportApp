@@ -39,6 +39,6 @@
             android:value="2" /> 
         <meta-data
            android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyARBBBto3y2tcBswrhzGhYHqDVvjqI6mfA" />    
+           android:value="BURAYA API KEY GELECEK" />    
     </application>
 </manifest>
